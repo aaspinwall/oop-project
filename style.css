@@ -34,7 +34,7 @@ body {
   height: 32px;
   object-fit: contain;
   object-position: center;
-  background: url('imgs/environment/grass1.png');
+  background: url("imgs/environment/grass1.png");
 }
 
 #action-cam {
